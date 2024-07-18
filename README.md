@@ -156,3 +156,5 @@ function convertToString(value: any): string {
 }
 
 ```
+It is highly recommended to go through the documentation of TypeScript for a clear understanding of the topics. Here, I have uploaded a file with shorter explanations.
+
